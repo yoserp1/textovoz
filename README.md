@@ -13,7 +13,7 @@ El conversor de texto a voz está transformando el texto en voz humana artificia
 ## Instalación
 
 * Este paquete requiere PHP 7+ y Laravel 8.x.
-* Primero, instale laravel 8.xy asegúrese de que la configuración de conexión de la base de datos sea correcta.
+* Primero, instale laravel 8.x y asegúrese de que la configuración de conexión de la base de datos sea correcta.
 * Clona este repositorio.
 * Ejecute composer install desde la raíz del proyecto.
 * Ejecute php artisan migrate para migracion de tablas en la BD desde la raíz del proyecto.
