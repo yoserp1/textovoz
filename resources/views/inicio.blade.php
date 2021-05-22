@@ -4,8 +4,8 @@
 
   <div class="d-flex align-items-center p-3 my-3 text-white bg-purple rounded shadow-sm">
     <div class="lh-1">
-      <h1 class="h6 mb-0 text-white lh-1"><i class="fa fa-microphone"></i> Texto a Voz</h1>
-      <small>Integracion con Text-to-Speech (TTS) API</small>
+      <h1 class="h6 mb-0 text-white lh-1"><i class="fa fa-file-audio-o"></i> Texto a Voz</h1>
+      <small>Integracion con Text-to-Speech (TTS) API por Yoser Perez</small>
     </div>
   </div>
 
