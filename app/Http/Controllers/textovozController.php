@@ -73,7 +73,7 @@ class textovozController extends Controller
              return response()->json($data);		
          }
 
-            $data = array('status' => 400, 'responseText' => "Please try again!");
+            $data = array('status' => 400, 'responseText' => "Por favor, intente de Nuevo!");
 
         return response()->json($data);     
 
