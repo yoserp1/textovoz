@@ -2,7 +2,7 @@
 
 Por: Yoser Perez
 
-El conversor de texto a voz está transformando el texto en voz humana artificial. Convierta el texto en el habla del idioma correspondiente. 
+El conversor de texto a voz está transformando el texto en voz humana artificial. Convierta el texto en el habla del idioma correspondiente, los resultados se guardan en un tabla y se listan en la vista principal.
 
 ## Requisitos
 ------------
@@ -16,6 +16,7 @@ El conversor de texto a voz está transformando el texto en voz humana artificia
 * Primero, instale laravel 8.xy asegúrese de que la configuración de conexión de la base de datos sea correcta.
 * Clona este repositorio.
 * Ejecute composer install desde la raíz del proyecto.
+* Ejecute php artisan migrate para migracion de tablas en la BD desde la raíz del proyecto.
 * Ejecute php artisan serve desde la raíz del proyecto.
 
 - **Cree una cuenta en VoiceRSS y obtenga su clave API de VoiceRSS**		
