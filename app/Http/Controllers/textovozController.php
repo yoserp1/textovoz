@@ -19,7 +19,7 @@ class textovozController extends Controller
     //
     public function inicio()
     {
-        return view('lista');
+        return view('inicio');
     }
     //Funcion convertir texto
     public function convertir(Request $request)
@@ -87,7 +87,7 @@ class textovozController extends Controller
     public function listado(Request $request)
     {
 		$response['success']  = 'true';
-		$response['data']  = media::orderby('id','ASC')->get()->toArray();
+		$response['data']  = media::orderby('id','DESC')->get()->toArray();
 		return Response::json($response, 200);
     }
 }
