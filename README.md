@@ -16,7 +16,7 @@ El conversor de texto a voz está transformando el texto en voz humana artificia
 * Primero, instale laravel 8.xy asegúrese de que la configuración de conexión de la base de datos sea correcta.
 * Clona este repositorio.
 * Ejecute composer install desde la raíz del proyecto.
-* Ejecute php artisan desde la raíz del proyecto.
+* Ejecute php artisan serve desde la raíz del proyecto.
 
 - **Cree una cuenta en VoiceRSS y obtenga su clave API de VoiceRSS**		
 	
