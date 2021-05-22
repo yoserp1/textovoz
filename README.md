@@ -1,4 +1,4 @@
-# Aplicacion Convertidor Texto a Audio
+# Aplicación Convertidor Texto a Audio
 
 Por: Yoser Perez
 
