@@ -29,10 +29,10 @@ El conversor de texto a voz está transformando el texto en voz humana artificia
 
 - **Cree una cuenta en VoiceRSS y obtenga su clave API de VoiceRSS**		
 	
-	[Crea una cuenta en VoiceRSS.](http://www.voicerss.org.<br />
+	[Crea una cuenta en VoiceRSS.](http://www.voicerss.org).<br />
 	[Iniciar sesión en VoiceRSS.](http://www.voicerss.org/login.aspx)<br />
 	[Obtenga su clave API](http://www.voicerss.org/personel/)
 
 - **Archivo de entorno Configure su clave de API (.env)**
 		
-VOICE_RSS_API_KEY=pi_key
+	VOICE_RSS_API_KEY=pi_key
